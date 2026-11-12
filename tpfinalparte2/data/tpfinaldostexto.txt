@@ -1,0 +1,55 @@
+INSTRUCCIONES:
+
+
+"Algo se ha deslizado dentro de la antigua casona en la que habitas. Tu deber? Investigar las habitaciones en busca de aquello que esta invadiendo tu privacidad. Explora el pasillo, entra a las habitaciones y consigue pruebas de que algo no esta bien. Una vez conseguidas, deberas decidir si llamar por ayuda o aceptaras tu destino en manos de lo desconocido.."
+
+Controles: 
+
+-Flechas (<-/->) = Moverse de Izquierda a Derecha.
+
+-Mouse = Click izquierdo para interactuar con los objetos/puertas.
+
+////////////////////////////////////////////////////////////////////////////////////////////////////
+
+DIALOGOS DENTRO DEL JUEGO
+
+////////////////////////////////////////////////////////////////////////////////////////////////////
+
+Diálogos de si todo esta bien:
+
+
+
+"Hmm.. nada fuera de lo usual. Todo tranquilo por acá."
+
+"Todo como estaba.. cada cosa esta en su lugar."
+
+"Uf. Tal vez debería limpiar de vez en cuando.. Por lo menos todo
+esta ordenado.."
+
+"Ahh.. El olor a antigüedad.. como me calma."
+
+
+Diálogos x si hay "algo":
+
+
+
+"Yo no había dejado esto así.."
+
+"Esto... lo había guardado en aquel armario.. ¿Qué hace acá?"
+
+"Siento un escalofrió recorrer mi espalda.. esto no me esta gustando.."
+
+"
+
+
+Diálogos del investigador/policía:
+
+
+
+"Llegue lo mas rápido que pude.. Sonaba bastante paranoico, Señor. No se preocupe, me encargare de examinar la escena meticulosamente.. Por favor, espere afuera."
+
+"Bueno. Luego de ver el lugar de arriba a abajo.. No he encontrado nada. No hay pista o rastro alguno por el cual empezar a investigar. Creo que le haría bien salir de esta casona de vez en cuando, Señor. Que tenga una buena noche."
+
+"Bueno. Ya termine de analizar la situación.. Ha tenido suerte. Encontré indicios de que alguien, o algo, había estado habitando este lugar. Mi consejo? Agarrar a su hermana e irse por esta noche de acá. No es seguro. Venga. Lo acompaño a buscar sus pertenencias..."
+
+.
